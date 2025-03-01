@@ -1,0 +1,2 @@
+**Folder Tugas Praktik**
+Berisikan tugas-tugas yang diberikan saat praktikum, dari asistent laboratoriun FASILKOM UNSIKA, dimana setiap tugas dimasukkan pada folder, dimana folder tersebut dibuat berdasarkan tiap tugas per minggu-nya
