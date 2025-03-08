@@ -11,8 +11,8 @@ Pada tugas ini, mahasiswa disuruh membuat halaman website portfolio sederhana, d
    - contoh penggunaan `<ul></ul>`
      
    Untuk tag `<ol></ol>`(ordered list) berfungsi untuk memberikan list dengan angka, yaitu:
-   1. contoh penggunaan `<ol></ol>`
-   2. dst...
+  1. contoh penggunaan `<ol></ol>`
+  2. dst...
 - tag tabel `<table></table>` berfungsi untuk membuat atau menampilkan tabel pada html
 
  Adapun tugasnya yaitu, membuat halaman website dengan **HTML** seperti pada gambar dibawah ini.
