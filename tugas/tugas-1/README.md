@@ -16,4 +16,5 @@ Pada tugas ini, mahasiswa disuruh membuat halaman website portfolio sederhana, d
 - tag tabel `<table></table>` berfungsi untuk membuat atau menampilkan tabel pada html
 
  Adapun tugasnya yaitu, membuat halaman website dengan **HTML** seperti pada gambar dibawah ini.
+ 
 ![image](https://github.com/user-attachments/assets/1b8d538b-d2f8-4dbe-9c85-46af5eb94338)
