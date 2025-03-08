@@ -62,8 +62,9 @@ footer {
 
 .btn {
   display: inline-block;
+  width: 100%;
   padding: 10px 20px;
-  background-color: #db343f;
+  background-color: #2980b9;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -74,8 +75,7 @@ footer {
 }
 
 .btn:hover {
-  background-color: #2980b9;
-  transform: scale(1.1);
+  background-color: #db343f;
 }
 
 label{
@@ -103,5 +103,5 @@ label{
 }
 textarea{
     resize: none;
-    height: 100px;
+    height: 75px;
 }
