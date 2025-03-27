@@ -12,11 +12,13 @@ Pada tugas ini, mahasiswa ditugaskan untuk membuat halaman formulir sederhana me
     - `file`, menandakan bahwa user/pengguna bisa menggunggah file pada form HTML, untuk jenis file bisa bermacam-macam, tergantung kebutuhan.
     - dan masih banyak lagi
 
- - Tag text area `<textarea></textarea>`, berfungsi untuk menerima karakter sama seperti textfield tetapi dengan jumlah karakter yang diterima lebih banyak dibanding textfield, serta ukurannya bisa dikostumisasi. Biasa digunakan untuk kolom sara atau alamat.
- - Tag Select
+ - Tag text area `<textarea></textarea>`, berfungsi untuk menerima karakter sama seperti textfield tetapi dengan jumlah karakter yang diterima lebih banyak dibanding textfield, serta ukurannya bisa dikostumisasi. Biasa digunakan untuk kolom saran atau alamat.
+ - Tag Select `<select></select>`, berfungsi sebagai kerangka untuk membuat pilihan atau menu dropdown, sedangkan jika kita ingin membuat isi dari menu dropdown dengan  menggunakan tag `<option></option>`. Salah satu penggunaan tag ini adalah untuk menu pilihan daftar provinsi.
  - Tag Button `<button></button>`, berfungsi untuk menampilkan atau membuat tombol/button di HTML
 
 
 Adapun tugasnya yaitu, membuat form biodata sederhana seperti pada gambar dibawah ini, dengan menggunakan tag HTML yang telah diperlajari:
+
+
 ![image](https://github.com/user-attachments/assets/73ed3700-ba13-456a-b461-bf67d74dc898)
 
