@@ -2,7 +2,7 @@ function hitung_angka() {
   let nilai = document.getElementById("nilai").value;
   let angka = parseInt(nilai);
   if (!(isNaN(angka))) {
-    if (angka > 100 || angka <= 0) {
+    if (angka > 100 || angka < 0) {
         document.getElementById("hasil").innerText = "Nilai tidak valid!";    
     } else if (angka >= 80) {
       document.getElementById("hasil").innerHTML = "A";
