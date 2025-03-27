@@ -7,3 +7,4 @@ Setiap tugas yang dikerjakan dimasukan kedalam folder berdasarkan minggu pertemu
 3. Week 3: Modul Materi 2 dimasukkan ke dalam folder tugas-1 **HTML**
 4. Week 4: Modul Materi 3 dimasukkan ke dalam folder tugas-2 **Form**
 5. Week 5: Modul Materi 4 dimasukkan ke dalam folder tugas-3 **CSS**
+6. Week 6: Modul Materi 5 dimasukkan ke dalam folder tugas-4 **JavaScript**
