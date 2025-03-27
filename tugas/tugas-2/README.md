@@ -9,6 +9,7 @@ Pada tugas ini, mahasiswa ditugaskan untuk membuat halaman formulir sederhana me
     - `radio` menandakan bahwa kolom ini akan berbentuk radio button, sehingga user hanya bisa memilih salah satu, biasa digunakan untuk jenis-kelamin
     - `checkbox`, menandakan user/pengguna bisa memilih lebih dari satu pilihan, biasanya digunakan pada kolom hobby, dimana bisa memiliki satu hobby.
     - `number`, menandakan bahwa textfield tau inputan hanya menerima format angka saja.
+    - `file`, menandakan bahwa user/pengguna bisa menggunggah file pada form HTML, untuk jenis file bisa bermacam-macam, tergantung kebutuhan.
     - dan masih banyak lagi
 
  - Tag text area `<textarea></textarea>`, berfungsi untuk menerima karakter sama seperti textfield tetapi dengan jumlah karakter yang diterima lebih banyak dibanding textfield, serta ukurannya bisa dikostumisasi. Biasa digunakan untuk kolom sara atau alamat.
