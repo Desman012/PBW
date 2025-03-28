@@ -1,0 +1,144 @@
+<html >
+<head>
+   <title>Halaman Web Singaperbangsa</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+   <header>
+       <h1>Selamat Datang di Website Singaperbangsa</h1>
+   </header>
+ 
+   <nav>
+       <ul>
+           <li><a href="#">Beranda</a></li>
+           <li><a href="#">Tentang</a></li>
+           <li><a href="#">Layanan</a></li>
+           <li><a href="#">Kontak</a></li>
+       </ul>
+   </nav>
+
+
+    
+   <div class="container">
+       <section class="content">
+           <h2>Artikel Utama</h2>
+           <p>Ini adalah contoh halaman web sederhana menggunakan CSS dan Flexbox untuk tata letak.</p>
+           <button class="btn">Klik Saya</button>
+       </section>
+       <aside class="sidebar">
+           <h2>Sidebar</h2>
+           <p>Bagian sidebar dapat berisi tautan, iklan, atau informasi tambahan.</p>
+       </aside>
+   </div>
+ 
+   <footer>
+       <p>&copy; 2024 Halaman Web Singaperbangsa. Dibuat dengan CSS.</p>
+   </footer>
+
+
+</body>
+</html>
+
+
+
+
+Selanjutnya anda perlu membuat css dengan metode external, silahkan anda tulis ulang kode css dibawah ini dan simpan dengan nama file “style.css”
+
+
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+} 
+
+
+header {
+   background-color: #9c1328;
+   color: white;
+   text-align: center;
+   padding: 20px;
+}
+
+
+
+
+nav {
+   background-color: #d73e3e;
+   padding: 10px;
+   text-align: center;
+}
+
+
+nav ul {
+   list-style: none;
+ }
+
+
+nav ul li {
+   display: inline;
+   margin: 0 15px;
+ }
+
+
+nav ul li a {
+   color: white;
+   text-decoration: none;
+}
+
+
+
+
+.container {
+   display: flex;
+   justify-content: space-between;
+   padding: 20px;
+}
+ 
+.content {
+   flex: 2;
+   padding: 20px;
+   background-color: #ECF0F1;
+   border-radius: 10px;
+}
+ 
+.sidebar {
+   flex: 1;
+   padding: 20px;
+   background-color: #BDC3C7;
+   border-radius: 10px;
+   margin-left: 20px;
+}
+
+
+footer {
+   text-align: center;
+   padding: 10px;
+   background-color: #2C3E50;
+   color: white;
+   margin-top: 20px;
+}
+
+
+.btn {
+   display: inline-block;
+   padding: 10px 20px;
+   background-color: #db343f;
+   color: white;
+   text-decoration: none;
+   border-radius: 5px;
+   margin-top: 10px;
+   border: none;
+   cursor: pointer;
+   transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+
+.btn:hover {
+   background-color: #2980B9;
+   transform: scale(1.1);
+}
+
+
+
