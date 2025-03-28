@@ -7,6 +7,6 @@ Repositori ini berisikan 2 folder, yaitu:
    Berisikan semua tugas yang ada pada modul materi yang diberikan.
 2. Praktikum.
    
-   Berisikan semua tugas yang diberikan oleh aslab saat sesi praktikum
+   Berisikan semua file latihan percobaan saat sesi praktikum
 
 Repositori ini berisikan latihan pembuatan website, dari html, css, javascript hingga php.
